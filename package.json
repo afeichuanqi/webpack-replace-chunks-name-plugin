@@ -1,0 +1,24 @@
+{
+  "name": "webpack-replace-chunks-name-plugin",
+  "version": "1.0.0",
+  "description": "用于替换webpac chunks name",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "./dist/index.d.ts",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "umi"
+  ],
+  "author": "潘飞龙",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^9.3.0",
+    "typescript": "^4.7.2",
+    "typescript-declaration-webpack-plugin": "^0.2.2",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
