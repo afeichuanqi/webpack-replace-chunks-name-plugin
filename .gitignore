@@ -1,5 +1,4 @@
 # 项目排除路径
-/dist/
 /node_modules/
 /src/webpack-replace-chunks-name-plugin.js
 /.idea

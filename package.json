@@ -20,5 +20,6 @@
     "typescript-declaration-webpack-plugin": "^0.2.2",
     "webpack": "^5.72.1",
     "webpack-cli": "^4.9.2"
-  }
+  },
+  "dependencies": {}
 }
